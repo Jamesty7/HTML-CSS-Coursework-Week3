@@ -1,1 +1,14 @@
-/*  Add your styling here */
+* {
+
+}
+
+.container {
+    background-color: rgb(red, green, blue);
+
+}
+
+.row > * {
+    background-color: royalblue;
+    height: 100px;
+
+}
