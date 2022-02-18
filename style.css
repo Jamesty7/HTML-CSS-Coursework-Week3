@@ -2,9 +2,13 @@
 
 }
 
-.container {
-    background-color: rgb(red, green, blue);
+header {
+    background-color: salmon;
 
+}
+
+footer  {
+    background-color: springgreen;
 }
 
 .border {
