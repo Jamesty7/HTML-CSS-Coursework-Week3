@@ -3,16 +3,20 @@
 }
 
 header {
-    background-color: salmon;
+    background-color: rgb(88, 139, 139);
 
 }
 
 footer  {
-    background-color: springgreen;
+    background-color: rgb(242, 143, 59);
 }
 
 .border {
     background-color: royalblue;
     height: 100px;
 
+}
+
+.card-img-top {
+    object-fit:cover;
 }
