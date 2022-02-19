@@ -1,4 +1,4 @@
-* {
+* { font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
@@ -19,4 +19,10 @@ footer  {
 
 .card-img-top {
     object-fit:cover;
+}
+
+
+button:hover {
+    background-color: steelblue;
+    
 }
